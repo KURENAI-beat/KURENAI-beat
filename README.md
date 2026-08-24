@@ -34,13 +34,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-### GitHub アクティビティ (GitHub Stats)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KURENAI-beat&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KURENAI-beat&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
